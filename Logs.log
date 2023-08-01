@@ -3450,3 +3450,632 @@
 {"level":"info","message":"0:function getMinutes() { [native code] } - 27:6:2023 | Info: Error registering slash commands:"}
 {"level":"info","message":"0:function getMinutes() { [native code] } - 27:6:2023 | Info: Lavalink: Node Main connected"}
 {"level":"info","message":"0:function getMinutes() { [native code] } - 27:6:2023 | Info: Lavalink: Node Main had an error: Unexpected op \"ready\" with data: [object Object]"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Web Server has been started"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: bump"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: clear"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: config"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: disconnect"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: grab"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: help"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: invite"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: loop"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: loopqueue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: move"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: pause"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: play"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: queue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: remove"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Unable to load Command: restart, Reason: File doesn't had run/name/desciption"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: resume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: search"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: seek"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: shuffle"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: skip"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: skipto"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: stats"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: volume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: youtube"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: guildCreate"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: message"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: raw"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: ready"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Web Server has been started"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: bump"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: clear"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: config"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: disconnect"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: grab"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: help"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: invite"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: loop"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: loopqueue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: move"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: pause"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: play"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: queue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: remove"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Unable to load Command: restart, Reason: File doesn't had run/name/desciption"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: resume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: search"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: seek"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: shuffle"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: skip"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: skipto"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: stats"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: volume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: youtube"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: guildCreate"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: message"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: raw"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: ready"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Successfully Logged in as Dellos Music#3157"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Registering slash commands for guild: 798455990341206056"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Registering slash commands for guild: 871333807289143296"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Error registering slash commands:"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Error registering slash commands:"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected op \"ready\" with data: [object Object]"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Web Server has been started"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: bump"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: clear"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: config"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: disconnect"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: grab"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: help"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: invite"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: loop"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: loopqueue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: move"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: pause"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: play"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: queue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: remove"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Unable to load Command: restart, Reason: File doesn't had run/name/desciption"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: resume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: search"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: seek"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: shuffle"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: skip"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: skipto"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: stats"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: volume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: youtube"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: guildCreate"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: message"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: raw"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: ready"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Web Server has been started"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: bump"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: clear"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: config"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: disconnect"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: grab"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: help"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: invite"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: loop"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: loopqueue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: move"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: pause"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: play"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: queue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: remove"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Unable to load Command: restart, Reason: File doesn't had run/name/desciption"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: resume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: search"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: seek"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: shuffle"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: skip"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: skipto"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: stats"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: volume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: youtube"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: guildCreate"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: message"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: raw"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: ready"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Successfully Logged in as Dellos Music#3157"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Registering slash commands for guild: 798455990341206056"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Registering slash commands for guild: 871333807289143296"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Error registering slash commands:"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Error registering slash commands:"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected op \"ready\" with data: [object Object]"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Web Server has been started"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: bump"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: clear"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: config"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: disconnect"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: grab"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: help"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: invite"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: loop"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: loopqueue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: move"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: pause"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: play"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: queue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: remove"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: resume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: search"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: seek"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: shuffle"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: skip"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: skipto"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: stats"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: volume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: youtube"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: guildCreate"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: message"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: raw"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: ready"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Successfully Logged in as Dellos Music#3157"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Registering slash commands for guild: 798455990341206056"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Registering slash commands for guild: 871333807289143296"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Error registering slash commands:"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Error registering slash commands:"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected op \"ready\" with data: [object Object]"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Web Server has been started"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: bump"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: clear"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: config"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: disconnect"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: grab"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: help"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: invite"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: loop"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: loopqueue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: move"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: pause"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: play"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: queue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: remove"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Unable to load Command: restart, Reason: File doesn't had run/name/desciption"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: resume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: search"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: seek"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: shuffle"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: skip"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: skipto"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: stats"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: volume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: youtube"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: guildCreate"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: message"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: raw"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: ready"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Successfully Logged in as Dellos Music#3157"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Registering slash commands for guild: 798455990341206056"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Registering slash commands for guild: 871333807289143296"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Error registering slash commands:"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Error registering slash commands:"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected op \"ready\" with data: [object Object]"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Web Server has been started"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: bump"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: clear"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: config"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: disconnect"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: grab"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: help"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: invite"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: loop"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: loopqueue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: move"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: pause"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: play"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: queue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: remove"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: restart"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: resume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: search"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: seek"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: shuffle"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: skip"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: skipto"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: stats"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: volume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: youtube"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: guildCreate"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: message"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: raw"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: ready"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Successfully Logged in as Dellos Music#3157"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Registering slash commands for guild: 798455990341206056"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Registering slash commands for guild: 871333807289143296"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Error registering slash commands:"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Error registering slash commands:"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected op \"ready\" with data: [object Object]"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Web Server has been started"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: bump"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: clear"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: config"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: disconnect"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: grab"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: help"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: invite"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: loop"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: loopqueue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: move"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: pause"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: play"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: queue"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: remove"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: restart"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: resume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: search"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: seek"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: shuffle"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: skip"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: skipto"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: stats"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: volume"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: youtube"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: guildCreate"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: message"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: raw"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: ready"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Successfully Logged in as Dellos Music#3157"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Registering slash commands for guild: 798455990341206056"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Registering slash commands for guild: 871333807289143296"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Error registering slash commands:"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Error registering slash commands:"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"0:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected op \"ready\" with data: [object Object]"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Web Server has been started"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: bump"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: clear"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: config"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: disconnect"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: grab"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: help"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: invite"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: loop"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: loopqueue"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: move"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: pause"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: play"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: queue"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: remove"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: restart"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: resume"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: search"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: seek"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: shuffle"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: skip"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: skipto"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: stats"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: volume"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: youtube"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: guildCreate"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: message"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: raw"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: ready"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Successfully Logged in as Dellos Music#3157"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Registering slash commands for guild: 798455990341206056"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Registering slash commands for guild: 871333807289143296"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Error registering slash commands:"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Error registering slash commands:"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"1:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Web Server has been started"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: bump"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: clear"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: config"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: disconnect"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: grab"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: help"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: invite"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: loop"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: loopqueue"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: move"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: pause"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: play"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: queue"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: remove"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: restart"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: resume"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: search"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: seek"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: shuffle"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: skip"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: skipto"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: stats"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: volume"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: youtube"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: guildCreate"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: message"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: raw"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: ready"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Successfully Logged in as Dellos Music#3157"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Registering slash commands for guild: 798455990341206056"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Registering slash commands for guild: 871333807289143296"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Error registering slash commands:"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Error registering slash commands:"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Web Server has been started"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: bump"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: clear"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: config"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: disconnect"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: grab"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: help"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: invite"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: loop"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: loopqueue"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: move"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: pause"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: play"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: queue"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: remove"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: restart"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: resume"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: search"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: seek"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: shuffle"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: skip"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: skipto"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: stats"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: volume"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: youtube"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: guildCreate"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: message"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: raw"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: ready"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Successfully Logged in as Dellos Music#3157"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Registering slash commands for guild: 798455990341206056"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Registering slash commands for guild: 871333807289143296"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Error registering slash commands:"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Error registering slash commands:"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Web Server has been started"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: bump"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: clear"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: config"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: disconnect"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: grab"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: help"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: invite"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: loop"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: loopqueue"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: move"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: pause"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: play"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: queue"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: remove"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: restart"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: resume"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: search"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: seek"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: shuffle"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: skip"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: skipto"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: stats"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: volume"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: youtube"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: guildCreate"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: message"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: raw"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: ready"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Successfully Logged in as Dellos Music#3157"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Registering slash commands for guild: 798455990341206056"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Registering slash commands for guild: 871333807289143296"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Error registering slash commands:"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Error registering slash commands:"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected server response: 404"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Web Server has been started"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: bump"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: clear"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: config"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: disconnect"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: grab"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: help"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: invite"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: loop"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: loopqueue"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: move"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: pause"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: play"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: queue"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: remove"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: restart"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: resume"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: search"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: seek"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: shuffle"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: skip"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: skipto"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: stats"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: volume"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: youtube"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: guildCreate"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: message"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: raw"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: ready"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Successfully Logged in as Dellos Music#3157"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Registering slash commands for guild: 798455990341206056"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Registering slash commands for guild: 871333807289143296"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Error registering slash commands:"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Error registering slash commands:"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"3:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected op \"ready\" with data: [object Object]"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Web Server has been started"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: bump"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: clear"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: config"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: disconnect"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: grab"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: help"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: invite"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: loop"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: loopqueue"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: move"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: pause"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: play"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: queue"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: remove"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: restart"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: resume"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: search"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: seek"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: shuffle"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: skip"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: skipto"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: stats"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: volume"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: youtube"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: guildCreate"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: message"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: raw"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: ready"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Successfully Logged in as Dellos Music#3157"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Registering slash commands for guild: 798455990341206056"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Registering slash commands for guild: 871333807289143296"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Error registering slash commands:"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Error registering slash commands:"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected op \"ready\" with data: [object Object]"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"12:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected op \"ready\" with data: [object Object]"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Web Server has been started"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: bassboost"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: bump"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: clear"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: config"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: disconnect"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: grab"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: help"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: invite"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: loop"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: loopqueue"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: lyrics"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: move"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: nowplaying"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: pause"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: play"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: queue"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: remove"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: restart"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: resume"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: search"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: seek"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: shuffle"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: skip"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: skipto"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: stats"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: volume"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Command Loaded: youtube"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: guildCreate"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: message"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: raw"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: ready"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Event Loaded: voiceStateUpdate"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Successfully Logged in as Dellos Music#3157"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Registering slash commands for guild: 798455990341206056"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Registering slash commands for guild: 871333807289143296"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Error registering slash commands:"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Error registering slash commands:"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main connected"}
+{"level":"info","message":"13:function getMinutes() { [native code] } - 1:7:2023 | Info: Lavalink: Node Main had an error: Unexpected op \"ready\" with data: [object Object]"}

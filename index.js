@@ -1,6 +1,7 @@
 require("dotenv").config();
-const { GatewayIntentBits } = require("discord.js");
-const DiscordMusicBot = require("./structures/DiscordMusicBot"); // Použite správnu cestu k súboru DiscordMusicBot.js.
+const { Intents } = require("discord.js");
+
+const DiscordMusicBot = require("./structures/DiscordMusicBot");
 
 const intents = [
   GatewayIntentBits.Guilds,
@@ -9,14 +10,16 @@ const intents = [
   GatewayIntentBits.GuildMembers,
 ];
 
+const botconfig = require("./botconfig");
 const client = new DiscordMusicBot({
   intents,
+  token: botconfig.Token,
+  prefix: botconfig.DefaultPrefix,
+  adminIDs: botconfig.Admins,
+  lavalink: botconfig.Lavalink,
 });
 
-// Přidáme volání funkce RegisterSlashCommands pro registraci Slash Commandů
 client.RegisterSlashCommands();
-
-// Spustíme bota
 client.build();
 
 module.exports = client;

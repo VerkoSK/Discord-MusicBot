@@ -4,7 +4,7 @@ const path = require("path");
 /**
  * Register slash commands for a guild
  * @param {require("../structures/DiscordMusicBot")} client
- * @param {string} guild
+ * @param {string} guildId
  */
 module.exports = async (client, guildId) => {
   client.log("Registering slash commands for guild: " + guildId);
@@ -21,7 +21,7 @@ module.exports = async (client, guildId) => {
       for (const file of files) {
         let cmd = require(path.join(commandsDir, file));
 
-        if (!cmd.SlashCommand || !cmd.SlashCommand.run) continue;
+        if (!cmd.name || !cmd.description || !cmd.SlashCommand || !cmd.SlashCommand.run) continue;
 
         let dataStuff = {
           name: cmd.name,

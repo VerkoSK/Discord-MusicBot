@@ -9,14 +9,16 @@ const fs = require("fs");
 const path = require("path");
 const Express = require("express");
 const Logger = require("./Logger");
-const prettyMilliseconds = require("pretty-ms");
+const { default: prettyMilliseconds } = require("pretty-ms");
 const deezer = require("erela.js-deezer");
 const apple = require("erela.js-apple");
 const facebook = require("erela.js-facebook");
 let d;
 
+// Rest of the code...
+
+
 //Class extending Stuff
-require("discordjs-activity"); //Epic Package, For more details: https://www.npmjs.com/package/discordjs-activity
 require("./EpicPlayer"); //idk why im doing but i wanna learn something new so...
 
 class DiscordMusicBot extends Client {
