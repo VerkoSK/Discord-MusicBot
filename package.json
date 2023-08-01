@@ -1,11 +1,10 @@
 {
   "name": "dellosmusic",
-  "version": "0.98.6",
+  "version": "0.98.7",
   "description": "Dellos Music Bot - Discord Music Bot",
   "main": "index.js",
   "scripts": {
     "test": "jest --passWithNoTests",
-    "install-node-v20": "wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash && export NVM_DIR=\"$([ -z \"${XDG_CONFIG_HOME-}\" ] && printf %s \"${HOME}/.nvm\" || printf %s \"${XDG_CONFIG_HOME}/nvm\")\" && [ -s \"$NVM_DIR/nvm.sh\" ] && \\. \"$NVM_DIR/nvm.sh\" && nvm install 20 && nvm use 20",
     "start": "node index",
     "release": "standard-version",
     "rm-logs": "rm Logs.log",
@@ -17,7 +16,7 @@
     "url": "https://github.com/VerkoSK/Dellos-Music.git"
   },
   "engines": {
-    "node": "20.x"
+    "node": "18.17.x"
   },
   "keywords": [
     "discord",
@@ -33,39 +32,37 @@
   },
   "homepage": "https://github.com/VerkoSK/Dellos-Music",
   "dependencies": {
-    "@discordjs/core": "^0.6.0",
+    "@discordjs/core": "^1.0.0",
     "colors": "^1.4.0",
     "cpu-stat": "^2.0.1",
-    "discord.js": "^14.6.0",
-    "discordjs-activity": "1.4.1",
-    "dotenv": "^16.0.1",
+    "dotenv": "16.3.1",
     "erela.js": "^2.4.0",
-    "erela.js-apple": "^1.2.2",
+    "erela.js-apple": "^1.2.6",
     "erela.js-deezer": "^1.0.7",
     "erela.js-facebook": "^1.0.4",
-    "express": "^4.17.1",
-    "express-session": "^1.17.1",
-    "jsoning": "^0.12.0",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "jsoning": "^0.13.23",
     "lavasfy": "2.3.0",
     "lodash": "^4.17.21",
     "lyrics-finder": "^21.7.0",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "moment-duration-format": "^2.3.2",
-    "mongoose": "^5.12.3",
+    "mongoose": "^7.4.1",
     "netstat": "^0.0.2",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.3.2",
     "passport": "^0.6.0",
     "passport-discord": "^0.1.4",
-    "pretty-ms": "^7.0.1",
-    "socket.io": "^4.0.1",
-    "winston": "^3.3.3"
+    "pretty-ms": "^8.0.0",
+    "socket.io": "^4.7.1",
+    "winston": "^3.10.0"
   },
   "devDependencies": {
-    "discord.js": "^14.11.0",
-    "husky": "7.0.4",
+    "discord.js": "^14.12.1",
+    "husky": "8.0.3",
     "jest": "^29.6.2",
-    "lint-staged": "11.2.2",
-    "prettier": "2.4.1",
+    "lint-staged": "13.2.3",
+    "prettier": "3.0.0",
     "standard-version": "^9.5.0"
   },
   "lint-staged": {
