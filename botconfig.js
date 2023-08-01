@@ -1,13 +1,13 @@
 const { Client } = require('discord.js');
 const config = {
-  Admins: ["657629898961322048", "125258977373192192", "767984871007059998"],
+  Admins: [""],
   ExpressServer: true,
   DefaultPrefix: process.env.Prefix || "!",
   Port: 3000,
   SupportServer: "https://discord.gg/uHnwTYfVNq",
-  Token: process.env.Token || "YOUR_DISCORD_BOT_TOKEN",
-  ClientID: process.env.Discord_ClientID || "891257321257328650",
-  ClientSecret: process.env.Discord_ClientSecret || "WhC7tJXGlZki7jbNW7pZX5qFvbuSUbUq",
+  Token: process.env.Token || "",
+  ClientID: process.env.Discord_ClientID || "",
+  ClientSecret: process.env.Discord_ClientSecret || "",
   Scopes: ["identify", "guilds", "applications.commands"],
   ServerDeafen: true,
   DefaultVolume: 100,
@@ -37,10 +37,10 @@ const config = {
     retryDelay: 40,
   },
   Spotify: {
-    ClientID: process.env.Spotify_ClientID || "1d5d0ae171fe43eb9876409e8e9c3fba",
-    ClientSecret: process.env.Spotify_ClientSecret || "b6d6239a8271474aba0cc1902d0e3fec",
+    ClientID: process.env.Spotify_ClientID || "",
+    ClientSecret: process.env.Spotify_ClientSecret || "",
   },
-  endpoint: "de1.bot-hosting.net:7578",
+  endpoint: "",
 };
 
 const bot = new Client();
